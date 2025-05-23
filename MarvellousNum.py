@@ -6,7 +6,7 @@ def ChkPrime(no):
             if no%i==0:
                 return False
         else:
-            return False
+            return True
 
 
     
